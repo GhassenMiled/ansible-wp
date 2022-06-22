@@ -1,5 +1,3 @@
-# Technical Test Buckhill
-
 ## **Architecture of EC2/Wordpress Instance with RDS:**
 
 <p align="center">
