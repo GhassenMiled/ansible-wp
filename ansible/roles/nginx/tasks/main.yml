@@ -2,7 +2,7 @@
 # tasks file for nginx
 
 - name: Install nginx web server 
-  apt:
+  yum:
     name: nginx
     state: present
     update_cache: true
