@@ -1,0 +1,6 @@
+---
+# WordPress database settings
+wp_db_name: mydb
+wp_db_user: user
+wp_db_password: Azerty123456
+wp_db_host: ghassen-devops-test-master.cqznq1vhaj4a.eu-west-2.rds.amazonaws.com
